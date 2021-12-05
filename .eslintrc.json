@@ -59,7 +59,7 @@
       ],
       "no-console": "off",
       "prettier/prettier": [
-          "error", 
+          "error",
           {
           "endOfLine": "auto"
           }
